@@ -104,7 +104,7 @@
 
     <string name="Single_Player_Stats">"Jedan Igrač Statistika"</string>
 
-    <string name="Level">"Level"</string>
+    <string name="Level">"Razinal"</string>
     <string name="PAUSED">"PAUZIRANO"</string>
 
 
@@ -1145,7 +1145,7 @@
     <string name="Refund__Multiskin">Povrat\nMultiskin</string>
     <string name="Invalid_Clan_ID_">Nevaljan Klan ID.</string>
     <string name="MUTED">UTIŠAN</string>
-    <string name="SKIN">SKIN</string>
+    <string name="SKIN">KOŽA</string>
     <string name="Choose_Skin_Size">Odaberi Veličinu Skina</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">Drugi igrači neće biti u mogućnosti da te čuju!</string>
     <string name="Allow_permission_to_enable_voice_recording_">Dopusti dopuštenje za snimanje glasa.</string>
@@ -1313,7 +1313,7 @@ Commands: (Komande)
     <string name="You_are_already_friends_">Vi ste već prijatelji.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Račun mora biti star 1 dan da šalje poštu.</string>
     <string name="Translator">Prevoditelj</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="SUCCESS">USPJEH</string>
 
 
     <string-array name="control_modes">
